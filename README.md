@@ -3,4 +3,4 @@
 
 ## Ссылки
 
-- [Публичная страница на GitHub Pages]()
+- [Публичная страница на GitHub Pages](https://github.com/oalapuper/WB7)
